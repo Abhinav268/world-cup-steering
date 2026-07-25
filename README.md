@@ -2,7 +2,7 @@
 
 A small case study steering **GPT-2 small** toward the concept of the **World Cup**, comparing a cheap supervised baseline against sparse-autoencoder (SAE) steering, on a shared *effect vs coherence* frontier.
 
-📝 **Blog write-up:** [read the full post here](ADD_YOUR_BLOG_URL)
+📝 **Blog write-up:** [read the full post here](https://abhinav268.github.io/steering-methods.html)
 
 ## The question
 
