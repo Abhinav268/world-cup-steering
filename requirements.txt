@@ -1,0 +1,11 @@
+# Core dependencies for the steering experiments.
+# The notebook was developed on Kaggle (T4 GPU); versions left unpinned to match
+# whatever the current Kaggle image ships. Pin these if you need exact reproduction.
+transformer-lens
+sae-lens
+torch
+plotly
+numpy
+
+# Optional: only needed to export the frontier figure to a static image
+# kaleido==0.2.1
